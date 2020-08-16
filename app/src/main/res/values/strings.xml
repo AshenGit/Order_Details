@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Order Details</string>
+    <string name="Msg1">Order ID</string>
+    <string name="Msg2">123</string>
+    <string name="Msg3">Customer</string>
+    <string name="Msg4">Bruce Wayne</string>
+    <string name="Msg5">Address</string>
+    <string name="Msg6">Malabe</string>
+    <string name="Msg7">E-mail</string>
+    <string name="Msg8">bruce@gmail.com</string>
+    <string name="Msg9">Items</string>
+    <string name="Msg10">T-Shirt-Red</string>
+    <string name="Msg11">T-Shirt-Blue</string>
+    <string name="Msg12">T-Shirt-Black</string>
+    <string name="Btn1">Add More Items</string>
+    <string name="Btn2">Delete Order</string>
+    <string name="Btn3">Click here to proceed</string>
+    <string name="PriceRed">750</string>
+    <string name="PriceBlue">850</string>
+    <string name="PriceBlack">900</string>
+    <string name="tot">Total</string>
+    <string name="Amount">Rs. 2500</string>
+    <string name="btn4">Proceed to payment</string>
+    <string name = "name_activity2">Order Summary</string>
+</resources>
